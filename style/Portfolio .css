@@ -124,3 +124,6 @@ main{
     font-size: 20px;
     font-weight: 400;
 }
+#description{
+    padding: 30px 150px;
+}
